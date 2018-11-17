@@ -1,0 +1,72 @@
+  TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
+0           EPL      1819  Tottenham                    0         12
+1           EPL      1819    Cardiff  2018-08-25 00:00:00          9
+2           EPL      1819   Brighton  2018-09-17 00:00:00          7
+  TheLeagueName TheSeason       TheTeam LastDrawDate NumOfMatch
+0  Championship      1819   Aston Villa   2018-10-02          6
+1  Championship      1819  Bristol City   2018-10-03          6
+2  Championship      1819       Swansea   2018-10-02          6
+  TheLeagueName TheSeason         TheTeam LastDrawDate NumOfMatch
+0        Leagu1      1819   AFC Wimbledon   2018-08-18         14
+1        Leagu1      1819        Bradford   2018-09-29          7
+2        Leagu1      1819  Fleetwood Town   2018-10-02          6
+  TheLeagueName TheSeason       TheTeam LastDrawDate NumOfMatch
+0      Scotland      1819  St Johnstone   2018-09-15          8
+1      Scotland      1819      Aberdeen   2018-09-15          7
+2      Scotland      1819    Motherwell   2018-10-06          4
+  TheLeagueName TheSeason        TheTeam LastDrawDate NumOfMatch
+0      Germany1      1819  Werder Bremen   2018-09-16          8
+1      Germany1      1819     Hoffenheim   2018-09-22          7
+2      Germany1      1819      Stuttgart   2018-09-21          7
+  TheLeagueName TheSeason         TheTeam LastDrawDate NumOfMatch
+0      Germany2      1819       Magdeburg   2018-10-06          4
+1      Germany2      1819       Darmstadt   2018-10-21          3
+2      Germany2      1819  Erzgebirge Aue   2018-10-19          3
+  TheLeagueName TheSeason   TheTeam LastDrawDate NumOfMatch
+0         Italy      1819     Inter   2018-08-26         10
+1         Italy      1819     Milan   2018-09-27          7
+2         Italy      1819  Atalanta   2018-09-26          6
+  TheLeagueName TheSeason      TheTeam LastDrawDate NumOfMatch
+0         Spain      1819       Alaves   2018-09-27          6
+1         Spain      1819  Real Madrid   2018-09-29          5
+2         Spain      1819    Barcelona   2018-10-07          4
+  TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
+0       France1      1819   Paris SG                    0         13
+1       France1      1819  Marseille  2018-08-26 00:00:00         10
+2       France1      1819     Amiens  2018-09-02 00:00:00          9
+  TheLeagueName TheSeason   TheTeam LastDrawDate NumOfMatch
+0       France2      1819   Orleans   2018-08-17         10
+1       France2      1819  Grenoble   2018-08-24          9
+2       France2      1819    Troyes   2018-09-21          6
+  TheLeagueName TheSeason        TheTeam         LastDrawDate NumOfMatch
+0      Holland1      1819  PSV Eindhoven                    0         12
+1      Holland1      1819           Ajax  2018-08-11 00:00:00         11
+2      Holland1      1819     Graafschap  2018-08-31 00:00:00          8
+  TheLeagueName TheSeason    TheTeam LastDrawDate NumOfMatch
+0       Belgium      1819      Eupen   2018-09-15          8
+1       Belgium      1819  Charleroi   2018-09-22          7
+2       Belgium      1819    Antwerp   2018-09-30          6
+  TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
+0      Portugal      1819      Porto                    0         10
+1      Portugal      1819       Aves  2018-08-17 00:00:00          8
+2      Portugal      1819  Sp Lisbon  2018-08-25 00:00:00          7
+  TheLeagueName TheSeason          TheTeam LastDrawDate NumOfMatch
+0           ARG      1819       Godoy Cruz   2018-08-18         10
+1           ARG      1819          Huracan   2018-08-27          8
+2           ARG      1819  San Martin S.J.   2018-08-25          7
+  TheLeagueName TheSeason         TheTeam LastDrawDate NumOfMatch
+0           BRA      1819  Chapecoense-SC   2018-09-06         11
+1           BRA      1819        Cruzeiro   2018-09-16          8
+2           BRA      1819     Botafogo RJ   2018-10-16          4
+  TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
+0           DNK      1819       Hobro   2018-09-16          7
+1           DNK      1819  Vendsyssel   2018-09-16          7
+2           DNK      1819       Vejle   2018-09-28          5
+  TheLeagueName TheSeason       TheTeam LastDrawDate NumOfMatch
+0           NOR      1819     Haugesund   2018-08-19         10
+1           NOR      1819  Kristiansund   2018-09-02          8
+2           NOR      1819         Start   2018-09-02          8
+  TheLeagueName TheSeason         TheTeam LastDrawDate NumOfMatch
+0           SWE      1819  Brommapojkarna   2018-09-30          6
+1           SWE      1819        Goteborg   2018-10-06          5
+2           SWE      1819          Hacken   2018-10-07          5

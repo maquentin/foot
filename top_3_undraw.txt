@@ -6,10 +6,10 @@
 0  Championship      1819   Aston Villa   2018-10-02          6
 1  Championship      1819  Bristol City   2018-10-03          6
 2  Championship      1819       Swansea   2018-10-02          6
-  TheLeagueName TheSeason         TheTeam LastDrawDate NumOfMatch
-0       League1      1819   AFC Wimbledon   2018-08-18         14
-1       League1      1819        Bradford   2018-09-29          7
-2       League1      1819  Fleetwood Town   2018-10-02          6
+  TheLeagueName TheSeason        TheTeam LastDrawDate NumOfMatch
+0       League1      1819  AFC Wimbledon   2018-08-18         15
+1       League1      1819       Plymouth   2018-10-02          7
+2       League1      1819       Barnsley   2018-10-02          7
   TheLeagueName TheSeason       TheTeam LastDrawDate NumOfMatch
 0      Scotland      1819  St Johnstone   2018-09-15          8
 1      Scotland      1819      Aberdeen   2018-09-15          7

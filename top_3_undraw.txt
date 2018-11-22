@@ -55,9 +55,9 @@
 1           ARG      1819          Huracan   2018-08-27          8
 2           ARG      1819  San Martin S.J.   2018-08-25          7
   TheLeagueName TheSeason         TheTeam LastDrawDate NumOfMatch
-0           BRA      1819  Chapecoense-SC   2018-09-06         11
-1           BRA      1819        Cruzeiro   2018-09-16          8
-2           BRA      1819     Botafogo RJ   2018-10-16          4
+0           BRA      1819  Chapecoense-SC   2018-09-06         13
+1           BRA      1819        Cruzeiro   2018-09-16         10
+2           BRA      1819     Botafogo RJ   2018-10-16          6
   TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
 0           DNK      1819       Hobro   2018-09-16          7
 1           DNK      1819  Vendsyssel   2018-09-16          7

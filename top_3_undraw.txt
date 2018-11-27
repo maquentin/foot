@@ -25,7 +25,7 @@
   TheLeagueName TheSeason   TheTeam LastDrawDate NumOfMatch
 0         Italy      1819     Inter   2018-08-26         11
 1         Italy      1819  Atalanta   2018-09-26          7
-2         Italy      1819  Juventus   2018-10-20          4
+2         Italy      1819    Empoli   2018-10-21          4
   TheLeagueName TheSeason      TheTeam LastDrawDate NumOfMatch
 0         Spain      1819       Alaves   2018-09-27          7
 1         Spain      1819  Real Madrid   2018-09-29          6

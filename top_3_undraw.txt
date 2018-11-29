@@ -3,13 +3,13 @@
 1           EPL      1819    Cardiff  2018-08-25 00:00:00         10
 2           EPL      1819     Fulham  2018-09-22 00:00:00          7
   TheLeagueName TheSeason       TheTeam LastDrawDate NumOfMatch
-0  Championship      1819   Aston Villa   2018-10-02          7
-1  Championship      1819  Bristol City   2018-10-03          7
-2  Championship      1819       Swansea   2018-10-02          7
+0  Championship      1819  Bristol City   2018-10-03          8
+1  Championship      1819       Swansea   2018-10-02          8
+2  Championship      1819     Brentford   2018-10-06          7
   TheLeagueName TheSeason        TheTeam LastDrawDate NumOfMatch
-0       League1      1819  AFC Wimbledon   2018-08-18         16
-1       League1      1819     Shrewsbury   2018-10-02          8
-2       League1      1819       Plymouth   2018-10-02          8
+0       League1      1819  AFC Wimbledon   2018-08-18         17
+1       League1      1819     Shrewsbury   2018-10-02          9
+2       League1      1819       Plymouth   2018-10-02          9
   TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
 0      Scotland      1819    Aberdeen   2018-09-15          8
 1      Scotland      1819  Motherwell   2018-10-06          5

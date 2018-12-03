@@ -1,55 +1,55 @@
   TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
-0           EPL      1819  Tottenham                    0         13
-1           EPL      1819    Cardiff  2018-08-25 00:00:00         10
-2           EPL      1819     Fulham  2018-09-22 00:00:00          7
-  TheLeagueName TheSeason       TheTeam LastDrawDate NumOfMatch
-0  Championship      1819  Bristol City   2018-10-03          8
-1  Championship      1819       Swansea   2018-10-02          8
-2  Championship      1819     Brentford   2018-10-06          7
+0           EPL      1819  Tottenham                    0         14
+1           EPL      1819    Cardiff  2018-08-25 00:00:00         11
+2           EPL      1819     Fulham  2018-09-22 00:00:00          8
+  TheLeagueName TheSeason    TheTeam LastDrawDate NumOfMatch
+0  Championship      1819    Swansea   2018-10-02          9
+1  Championship      1819  Brentford   2018-10-06          7
+2  Championship      1819      Derby   2018-10-27          5
   TheLeagueName TheSeason        TheTeam LastDrawDate NumOfMatch
 0       League1      1819  AFC Wimbledon   2018-08-18         17
 1       League1      1819     Shrewsbury   2018-10-02          9
 2       League1      1819       Plymouth   2018-10-02          9
   TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
 0      Scotland      1819    Aberdeen   2018-09-15          8
-1      Scotland      1819  Motherwell   2018-10-06          5
-2      Scotland      1819    Hamilton   2018-10-27          4
+1      Scotland      1819  Motherwell   2018-10-06          6
+2      Scotland      1819    Hamilton   2018-10-27          5
   TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
-0      Germany1      1819   Stuttgart   2018-09-21          8
-1      Germany1      1819   Wolfsburg   2018-09-29          6
-2      Germany1      1819  M'gladbach   2018-09-29          6
+0      Germany1      1819   Stuttgart   2018-09-21          9
+1      Germany1      1819   Wolfsburg   2018-09-29          7
+2      Germany1      1819  M'gladbach   2018-09-29          7
   TheLeagueName TheSeason         TheTeam LastDrawDate NumOfMatch
-0      Germany2      1819       Magdeburg   2018-10-06          5
-1      Germany2      1819       Darmstadt   2018-10-21          4
-2      Germany2      1819  Erzgebirge Aue   2018-10-19          4
+0      Germany2      1819       Darmstadt   2018-10-21          5
+1      Germany2      1819         FC Koln   2018-10-27          4
+2      Germany2      1819  Greuther Furth   2018-11-02          3
   TheLeagueName TheSeason   TheTeam LastDrawDate NumOfMatch
-0         Italy      1819     Inter   2018-08-26         11
-1         Italy      1819  Atalanta   2018-09-26          7
-2         Italy      1819    Empoli   2018-10-21          4
+0         Italy      1819  Atalanta   2018-09-26          7
+1         Italy      1819  Juventus   2018-10-20          5
+2         Italy      1819     Parma   2018-11-04          3
   TheLeagueName TheSeason      TheTeam LastDrawDate NumOfMatch
-0         Spain      1819       Alaves   2018-09-27          7
-1         Spain      1819  Real Madrid   2018-09-29          6
-2         Spain      1819     Valencia   2018-10-27          3
-  TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
-0       France1      1819   Paris SG                    0         14
-1       France1      1819  Marseille  2018-08-26 00:00:00         11
-2       France1      1819     Amiens  2018-09-02 00:00:00         10
+0         Spain      1819  Real Madrid   2018-09-29          7
+1         Spain      1819      Espanol   2018-10-26          4
+2         Spain      1819     Valencia   2018-10-27          4
+  TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
+0       France1      1819      Amiens   2018-09-02         11
+1       France1      1819      Monaco   2018-10-27          4
+2       France1      1819  St Etienne   2018-10-26          4
   TheLeagueName TheSeason       TheTeam LastDrawDate NumOfMatch
-0       France2      1819        Troyes   2018-09-21          7
-1       France2      1819      Le Havre   2018-09-21          7
-2       France2      1819  Ajaccio GFCO   2018-09-28          6
+0       France2      1819        Troyes   2018-09-21          8
+1       France2      1819  Ajaccio GFCO   2018-09-28          7
+2       France2      1819   Chateauroux   2018-10-26          4
   TheLeagueName TheSeason        TheTeam         LastDrawDate NumOfMatch
-0      Holland1      1819  PSV Eindhoven                    0         13
-1      Holland1      1819           Ajax  2018-08-11 00:00:00         12
-2      Holland1      1819     Graafschap  2018-08-31 00:00:00          9
+0      Holland1      1819  PSV Eindhoven                    0         14
+1      Holland1      1819           Ajax  2018-08-11 00:00:00         13
+2      Holland1      1819     Graafschap  2018-08-31 00:00:00         10
   TheLeagueName TheSeason        TheTeam LastDrawDate NumOfMatch
-0       Belgium      1819          Eupen   2018-09-15          9
-1       Belgium      1819      Charleroi   2018-09-22          8
-2       Belgium      1819  Cercle Brugge   2018-10-27          4
-  TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
-0      Portugal      1819      Porto                    0         10
-1      Portugal      1819       Aves  2018-08-17 00:00:00          8
-2      Portugal      1819  Sp Lisbon  2018-08-25 00:00:00          7
+0       Belgium      1819          Eupen   2018-09-15         10
+1       Belgium      1819      Charleroi   2018-09-22          9
+2       Belgium      1819  Cercle Brugge   2018-10-27          5
+  TheLeagueName TheSeason      TheTeam         LastDrawDate NumOfMatch
+0      Portugal      1819        Porto                    0         11
+1      Portugal      1819         Aves  2018-08-17 00:00:00          9
+2      Portugal      1819  Santa Clara  2018-08-25 00:00:00          8
   TheLeagueName TheSeason          TheTeam LastDrawDate NumOfMatch
 0           ARG      1819       Godoy Cruz   2018-08-18         10
 1           ARG      1819          Huracan   2018-08-27          8

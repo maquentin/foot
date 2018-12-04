@@ -2,10 +2,10 @@
 0           EPL      1819  Tottenham                    0         14
 1           EPL      1819    Cardiff  2018-08-25 00:00:00         11
 2           EPL      1819     Fulham  2018-09-22 00:00:00          8
-  TheLeagueName TheSeason    TheTeam LastDrawDate NumOfMatch
-0  Championship      1819    Swansea   2018-10-02          9
-1  Championship      1819  Brentford   2018-10-06          7
-2  Championship      1819      Derby   2018-10-27          5
+  TheLeagueName TheSeason  TheTeam LastDrawDate NumOfMatch
+0  Championship      1819  Swansea   2018-10-02          9
+1  Championship      1819    Derby   2018-10-27          5
+2  Championship      1819    Leeds   2018-10-27          5
   TheLeagueName TheSeason        TheTeam LastDrawDate NumOfMatch
 0       League1      1819  AFC Wimbledon   2018-08-18         17
 1       League1      1819     Shrewsbury   2018-10-02          9
@@ -23,7 +23,7 @@
 1      Germany2      1819         FC Koln   2018-10-27          4
 2      Germany2      1819  Greuther Furth   2018-11-02          3
   TheLeagueName TheSeason   TheTeam LastDrawDate NumOfMatch
-0         Italy      1819  Atalanta   2018-09-26          7
+0         Italy      1819  Atalanta   2018-09-26          8
 1         Italy      1819  Juventus   2018-10-20          5
 2         Italy      1819     Parma   2018-11-04          3
   TheLeagueName TheSeason      TheTeam LastDrawDate NumOfMatch
@@ -46,10 +46,10 @@
 0       Belgium      1819          Eupen   2018-09-15         10
 1       Belgium      1819      Charleroi   2018-09-22          9
 2       Belgium      1819  Cercle Brugge   2018-10-27          5
-  TheLeagueName TheSeason      TheTeam         LastDrawDate NumOfMatch
-0      Portugal      1819        Porto                    0         11
-1      Portugal      1819         Aves  2018-08-17 00:00:00          9
-2      Portugal      1819  Santa Clara  2018-08-25 00:00:00          8
+  TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
+0      Portugal      1819      Porto                    0         11
+1      Portugal      1819       Aves  2018-08-17 00:00:00          9
+2      Portugal      1819  Sp Lisbon  2018-08-25 00:00:00          8
   TheLeagueName TheSeason          TheTeam LastDrawDate NumOfMatch
 0           ARG      1819       Godoy Cruz   2018-08-18         10
 1           ARG      1819          Huracan   2018-08-27          8

@@ -106,9 +106,3 @@
 2           SWE      1819          Hacken   2018-10-07          5
 3           SWE      1819      Norrkoping   2018-10-07          5
 4           SWE      1819      Djurgarden   2018-10-28          3
-  TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
-0           NE2      1819  Jong Ajax  2018-09-01 00:00:00         13
-1           NE2      1819   Waalwijk  2018-09-22 00:00:00          9
-2           NE2      1819     Twente  2018-10-06 00:00:00          9
-3           NE2      1819    Cambuur  2018-11-24 00:00:00          3
-4           NE2      1819   Telstar?                    0          3

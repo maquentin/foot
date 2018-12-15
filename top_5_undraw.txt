@@ -17,9 +17,9 @@
 3       League1      1819   Gillingham   2018-10-20          8
 4       League1      1819  Bristol Rvs   2018-10-20          7
   TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
-0      Scotland      1819    Aberdeen   2018-09-15         10
+0      Scotland      1819    Aberdeen   2018-09-15         11
 1      Scotland      1819    Hamilton   2018-10-27          7
-2      Scotland      1819  Livingston   2018-11-11          4
+2      Scotland      1819  Livingston   2018-11-11          5
 3      Scotland      1819  Kilmarnock   2018-11-24          3
 4      Scotland      1819      Celtic   2018-12-05          1
   TheLeagueName TheSeason        TheTeam LastDrawDate NumOfMatch
@@ -73,9 +73,9 @@
   TheLeagueName TheSeason      TheTeam         LastDrawDate NumOfMatch
 0      Portugal      1819        Porto                    0         12
 1      Portugal      1819         Aves  2018-08-17 00:00:00         10
-2      Portugal      1819    Sp Lisbon  2018-08-25 00:00:00          9
-3      Portugal      1819  Santa Clara  2018-08-25 00:00:00          9
-4      Portugal      1819   Moreirense  2018-08-27 00:00:00          9
+2      Portugal      1819   Moreirense  2018-08-27 00:00:00          9
+3      Portugal      1819    Sp Lisbon  2018-08-25 00:00:00          9
+4      Portugal      1819  Santa Clara  2018-08-25 00:00:00          9
   TheLeagueName TheSeason          TheTeam LastDrawDate NumOfMatch
 0           ARG      1819       Godoy Cruz   2018-08-18         10
 1           ARG      1819          Huracan   2018-08-27          8
@@ -106,3 +106,9 @@
 2           SWE      1819          Hacken   2018-10-07          5
 3           SWE      1819      Norrkoping   2018-10-07          5
 4           SWE      1819      Djurgarden   2018-10-28          3
+  TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
+0           NE2      1819  Jong Ajax  2018-09-01 00:00:00         13
+1           NE2      1819   Waalwijk  2018-09-22 00:00:00          9
+2           NE2      1819     Twente  2018-10-06 00:00:00          9
+3           NE2      1819    Cambuur  2018-11-24 00:00:00          3
+4           NE2      1819   Telstar?                    0          3

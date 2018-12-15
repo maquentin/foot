@@ -11,9 +11,9 @@
 1       League1      1819    Southend   2018-10-06          9
 2       League1      1819   Blackpool   2018-10-06          9
   TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
-0      Scotland      1819    Aberdeen   2018-09-15         10
+0      Scotland      1819    Aberdeen   2018-09-15         11
 1      Scotland      1819    Hamilton   2018-10-27          7
-2      Scotland      1819  Livingston   2018-11-11          4
+2      Scotland      1819  Livingston   2018-11-11          5
   TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
 0      Germany1      1819   Stuttgart   2018-09-21         10
 1      Germany1      1819  M'gladbach   2018-09-29          8
@@ -46,10 +46,10 @@
 0       Belgium      1819             Eupen   2018-09-15         11
 1       Belgium      1819     Cercle Brugge   2018-10-27          6
 2       Belgium      1819  Waasland-Beveren   2018-10-31          5
-  TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
-0      Portugal      1819      Porto                    0         12
-1      Portugal      1819       Aves  2018-08-17 00:00:00         10
-2      Portugal      1819  Sp Lisbon  2018-08-25 00:00:00          9
+  TheLeagueName TheSeason     TheTeam         LastDrawDate NumOfMatch
+0      Portugal      1819       Porto                    0         12
+1      Portugal      1819        Aves  2018-08-17 00:00:00         10
+2      Portugal      1819  Moreirense  2018-08-27 00:00:00          9
   TheLeagueName TheSeason          TheTeam LastDrawDate NumOfMatch
 0           ARG      1819       Godoy Cruz   2018-08-18         10
 1           ARG      1819          Huracan   2018-08-27          8
@@ -70,3 +70,7 @@
 0           SWE      1819  Brommapojkarna   2018-09-30          6
 1           SWE      1819        Goteborg   2018-10-06          5
 2           SWE      1819          Hacken   2018-10-07          5
+  TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
+0           NE2      1819  Jong Ajax  2018-09-01 00:00:00         13
+1           NE2      1819   Waalwijk  2018-09-22 00:00:00          9
+2           NE2      1819     Twente  2018-10-06 00:00:00          9

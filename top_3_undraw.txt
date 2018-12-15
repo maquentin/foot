@@ -71,6 +71,6 @@
 1           SWE      1819        Goteborg   2018-10-06          5
 2           SWE      1819          Hacken   2018-10-07          5
   TheLeagueName TheSeason    TheTeam LastDrawDate NumOfMatch
-0           NE2      1819  Jong Ajax   2018-09-01         15
-1           NE2      1819     Twente   2018-10-06         10
-2           NE2      1819   Waalwijk   2018-10-13          9
+0      Holland2      1819  Jong Ajax   2018-09-01         15
+1      Holland2      1819     Twente   2018-10-06         10
+2      Holland2      1819   Waalwijk   2018-10-13          9

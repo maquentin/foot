@@ -107,8 +107,8 @@
 3           SWE      1819      Norrkoping   2018-10-07          5
 4           SWE      1819      Djurgarden   2018-10-28          3
   TheLeagueName TheSeason      TheTeam LastDrawDate NumOfMatch
-0           NE2      1819    Jong Ajax   2018-09-01         15
-1           NE2      1819       Twente   2018-10-06         10
-2           NE2      1819     Waalwijk   2018-10-13          9
-3           NE2      1819     Nijmegen   2018-11-18          4
-4           NE2      1819  FC Volendam   2018-11-18          4
+0      Holland2      1819    Jong Ajax   2018-09-01         15
+1      Holland2      1819       Twente   2018-10-06         10
+2      Holland2      1819     Waalwijk   2018-10-13          9
+3      Holland2      1819     Nijmegen   2018-11-18          4
+4      Holland2      1819  FC Volendam   2018-11-18          4

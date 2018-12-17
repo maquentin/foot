@@ -1,55 +1,55 @@
   TheLeagueName TheSeason    TheTeam         LastDrawDate NumOfMatch
-0           EPL      1819  Tottenham                    0         16
-1           EPL      1819    Cardiff  2018-08-25 00:00:00         13
-2           EPL      1819   Man City  2018-10-07 00:00:00          8
+0           EPL      1819  Tottenham                    0         17
+1           EPL      1819    Cardiff  2018-08-25 00:00:00         14
+2           EPL      1819   Man City  2018-10-07 00:00:00          9
   TheLeagueName TheSeason  TheTeam LastDrawDate NumOfMatch
-0  Championship      1819  Swansea   2018-10-02         10
-1  Championship      1819    Derby   2018-10-27          6
-2  Championship      1819    Leeds   2018-10-27          6
-  TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
-0       League1      1819  Shrewsbury   2018-10-02         10
-1       League1      1819    Southend   2018-10-06          9
-2       League1      1819   Blackpool   2018-10-06          9
-  TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
-0      Scotland      1819    Aberdeen   2018-09-15         11
-1      Scotland      1819    Hamilton   2018-10-27          7
-2      Scotland      1819  Livingston   2018-11-11          5
-  TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
-0      Germany1      1819   Stuttgart   2018-09-21         10
-1      Germany1      1819  M'gladbach   2018-09-29          8
-2      Germany1      1819  RB Leipzig   2018-10-28          5
-  TheLeagueName TheSeason         TheTeam LastDrawDate NumOfMatch
-0      Germany2      1819         FC Koln   2018-10-27          5
-1      Germany2      1819  Greuther Furth   2018-11-02          4
-2      Germany2      1819      Heidenheim   2018-11-10          3
-  TheLeagueName TheSeason   TheTeam LastDrawDate NumOfMatch
-0         Italy      1819  Atalanta   2018-09-26          9
-1         Italy      1819  Juventus   2018-10-20          6
-2         Italy      1819    Napoli   2018-11-25          2
+0  Championship      1819  Swansea   2018-10-02         11
+1  Championship      1819    Derby   2018-10-27          7
+2  Championship      1819    Leeds   2018-10-27          7
   TheLeagueName TheSeason      TheTeam LastDrawDate NumOfMatch
-0         Spain      1819  Real Madrid   2018-09-29          8
-1         Spain      1819      Espanol   2018-10-26          5
-2         Spain      1819        Betis   2018-11-04          4
+0       League1      1819    Blackpool   2018-10-06         10
+1       League1      1819     Southend   2018-10-06         10
+2       League1      1819  Bristol Rvs   2018-10-20          8
   TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
-0       France1      1819      Amiens   2018-09-02         13
-1       France1      1819      Monaco   2018-10-27          5
-2       France1      1819  St Etienne   2018-10-26          5
-  TheLeagueName TheSeason       TheTeam LastDrawDate NumOfMatch
-0       France2      1819        Troyes   2018-09-21          9
-1       France2      1819  Ajaccio GFCO   2018-09-28          8
-2       France2      1819   Chateauroux   2018-10-26          5
+0      Scotland      1819    Aberdeen   2018-09-15         12
+1      Scotland      1819    Hamilton   2018-10-27          8
+2      Scotland      1819  Livingston   2018-11-11          6
+  TheLeagueName TheSeason        TheTeam LastDrawDate NumOfMatch
+0      Germany1      1819      Stuttgart   2018-09-21         11
+1      Germany1      1819       Dortmund   2018-10-27          6
+2      Germany1      1819  Ein Frankfurt   2018-10-28          6
+  TheLeagueName TheSeason         TheTeam LastDrawDate NumOfMatch
+0      Germany2      1819         FC Koln   2018-10-27          6
+1      Germany2      1819  Greuther Furth   2018-11-02          5
+2      Germany2      1819        Duisburg   2018-11-09          4
+  TheLeagueName TheSeason   TheTeam LastDrawDate NumOfMatch
+0         Italy      1819  Atalanta   2018-09-26         10
+1         Italy      1819  Juventus   2018-10-20          7
+2         Italy      1819    Napoli   2018-11-25          3
+  TheLeagueName TheSeason      TheTeam LastDrawDate NumOfMatch
+0         Spain      1819  Real Madrid   2018-09-29          9
+1         Spain      1819      Espanol   2018-10-26          6
+2         Spain      1819     Sociedad   2018-11-04          5
+  TheLeagueName TheSeason TheTeam LastDrawDate NumOfMatch
+0       France1      1819  Amiens   2018-09-02         13
+1       France1      1819   Nimes   2018-10-26          6
+2       France1      1819  Monaco   2018-10-27          6
+  TheLeagueName TheSeason   TheTeam LastDrawDate NumOfMatch
+0       France2      1819   Sochaux   2018-11-02          5
+1       France2      1819  Red Star   2018-11-02          5
+2       France2      1819   Beziers   2018-11-23          3
   TheLeagueName TheSeason        TheTeam         LastDrawDate NumOfMatch
-0      Holland1      1819  PSV Eindhoven                    0         15
-1      Holland1      1819           Ajax  2018-08-11 00:00:00         14
-2      Holland1      1819      Feyenoord  2018-10-07 00:00:00          7
+0      Holland1      1819  PSV Eindhoven                    0         16
+1      Holland1      1819           Ajax  2018-08-11 00:00:00         15
+2      Holland1      1819      Feyenoord  2018-10-07 00:00:00          8
   TheLeagueName TheSeason           TheTeam LastDrawDate NumOfMatch
-0       Belgium      1819             Eupen   2018-09-15         11
-1       Belgium      1819     Cercle Brugge   2018-10-27          6
-2       Belgium      1819  Waasland-Beveren   2018-10-31          5
-  TheLeagueName TheSeason     TheTeam         LastDrawDate NumOfMatch
-0      Portugal      1819       Porto                    0         12
-1      Portugal      1819        Aves  2018-08-17 00:00:00         10
-2      Portugal      1819  Moreirense  2018-08-27 00:00:00          9
+0       Belgium      1819             Eupen   2018-09-15         12
+1       Belgium      1819     Cercle Brugge   2018-10-27          7
+2       Belgium      1819  Waasland-Beveren   2018-10-31          6
+  TheLeagueName TheSeason      TheTeam         LastDrawDate NumOfMatch
+0      Portugal      1819        Porto                    0         13
+1      Portugal      1819    Sp Lisbon  2018-08-25 00:00:00         10
+2      Portugal      1819  Santa Clara  2018-08-25 00:00:00         10
   TheLeagueName TheSeason          TheTeam LastDrawDate NumOfMatch
 0           ARG      1819       Godoy Cruz   2018-08-18         10
 1           ARG      1819          Huracan   2018-08-27          8

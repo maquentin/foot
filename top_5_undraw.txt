@@ -76,39 +76,3 @@
 2      Portugal      1819  Santa Clara  2018-08-25 00:00:00         10
 3      Portugal      1819   Moreirense  2018-08-27 00:00:00         10
 4      Portugal      1819      Benfica  2018-09-27 00:00:00          7
-  TheLeagueName TheSeason          TheTeam LastDrawDate NumOfMatch
-0           ARG      1819       Godoy Cruz   2018-08-18         10
-1           ARG      1819          Huracan   2018-08-27          8
-2           ARG      1819  San Martin S.J.   2018-08-25          7
-3           ARG      1819    Gimnasia L.P.   2018-09-23          6
-4           ARG      1819      River Plate   2018-09-02          6
-  TheLeagueName TheSeason         TheTeam LastDrawDate NumOfMatch
-0           BRA      1819  Chapecoense-SC   2018-09-06         13
-1           BRA      1819        Cruzeiro   2018-09-16         10
-2           BRA      1819     Botafogo RJ   2018-10-16          6
-3           BRA      1819      America MG   2018-10-20          5
-4           BRA      1819          Santos   2018-10-23          5
-  TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatch
-0           DNK      1819       Hobro   2018-09-16          7
-1           DNK      1819  Vendsyssel   2018-09-16          7
-2           DNK      1819       Vejle   2018-09-28          5
-3           DNK      1819      Aarhus   2018-10-21          3
-4           DNK      1819     Brondby   2018-10-22          3
-  TheLeagueName TheSeason       TheTeam LastDrawDate NumOfMatch
-0           NOR      1819     Haugesund   2018-08-19         10
-1           NOR      1819  Kristiansund   2018-09-02          8
-2           NOR      1819         Start   2018-09-02          8
-3           NOR      1819        Tromso   2018-09-16          7
-4           NOR      1819           Odd   2018-09-29          5
-  TheLeagueName TheSeason         TheTeam LastDrawDate NumOfMatch
-0           SWE      1819  Brommapojkarna   2018-09-30          6
-1           SWE      1819        Goteborg   2018-10-06          5
-2           SWE      1819          Hacken   2018-10-07          5
-3           SWE      1819      Norrkoping   2018-10-07          5
-4           SWE      1819      Djurgarden   2018-10-28          3
-  TheLeagueName TheSeason      TheTeam LastDrawDate NumOfMatch
-0      Holland2      1819    Jong Ajax   2018-09-01         15
-1      Holland2      1819       Twente   2018-10-06         10
-2      Holland2      1819     Waalwijk   2018-10-13          9
-3      Holland2      1819     Nijmegen   2018-11-18          4
-4      Holland2      1819  FC Volendam   2018-11-18          4

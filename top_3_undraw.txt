@@ -58,3 +58,19 @@
 0           BRA      1819   America MG   2018-10-20          8
 1           BRA      1819  Flamengo RJ   2018-11-04          6
 2           BRA      1819  Atletico-MG   2018-11-11          5
+  TheLeagueName TheSeason  TheTeam LastDrawDate NumOfMatch
+0           DNK      1819   Aarhus   2018-10-21          7
+1           DNK      1819  Brondby   2018-10-22          7
+2           DNK      1819   Odense   2018-10-26          6
+  TheLeagueName TheSeason       TheTeam LastDrawDate NumOfMatch
+0           NOR      1819     Haugesund   2018-08-19         11
+1           NOR      1819  Kristiansund   2018-09-02          9
+2           NOR      1819         Start   2018-09-02          9
+  TheLeagueName TheSeason         TheTeam         LastDrawDate NumOfMatch
+0           SWE      1819  Brommapojkarna  2018-09-30 00:00:00          8
+1           SWE      1819      Norrkoping  2018-10-07 00:00:00          5
+2           SWE      1819        Goteborg  2018-10-06 00:00:00          5
+  TheLeagueName TheSeason    TheTeam LastDrawDate NumOfMatch
+0      Holland2      1819  Jong Ajax   2018-09-01         15
+1      Holland2      1819     Twente   2018-10-06         10
+2      Holland2      1819   Waalwijk   2018-10-13          9

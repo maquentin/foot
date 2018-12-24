@@ -76,3 +76,15 @@
 2      Portugal      1819  Santa Clara  2018-08-25 00:00:00         10
 3      Portugal      1819   Moreirense  2018-08-27 00:00:00         10
 4      Portugal      1819      Benfica  2018-09-27 00:00:00          7
+  TheLeagueName TheSeason          TheTeam LastDrawDate NumOfMatch
+0           ARG      1819  San Martin S.J.   2018-08-25         11
+1           ARG      1819   Argentinos Jrs   2018-09-23          8
+2           ARG      1819      River Plate   2018-09-02          7
+3           ARG      1819     Atl. Tucuman   2018-10-21          6
+4           ARG      1819            Tigre   2018-10-26          5
+  TheLeagueName TheSeason      TheTeam LastDrawDate NumOfMatch
+0           BRA      1819   America MG   2018-10-20          8
+1           BRA      1819  Flamengo RJ   2018-11-04          6
+2           BRA      1819  Atletico-MG   2018-11-11          5
+3           BRA      1819    Palmeiras   2018-11-18          3
+4           BRA      1819   Fluminense   2018-11-19          3

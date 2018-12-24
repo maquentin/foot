@@ -50,3 +50,11 @@
 0      Portugal      1819        Porto                    0         13
 1      Portugal      1819    Sp Lisbon  2018-08-25 00:00:00         10
 2      Portugal      1819  Santa Clara  2018-08-25 00:00:00         10
+  TheLeagueName TheSeason          TheTeam LastDrawDate NumOfMatch
+0           ARG      1819  San Martin S.J.   2018-08-25         11
+1           ARG      1819   Argentinos Jrs   2018-09-23          8
+2           ARG      1819      River Plate   2018-09-02          7
+  TheLeagueName TheSeason      TheTeam LastDrawDate NumOfMatch
+0           BRA      1819   America MG   2018-10-20          8
+1           BRA      1819  Flamengo RJ   2018-11-04          6
+2           BRA      1819  Atletico-MG   2018-11-11          5

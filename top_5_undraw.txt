@@ -15,10 +15,10 @@ E1
 E2
   TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatchUndraw
 0       League1      1819    Southend   2018-10-06               14
-1       League1      1819    Charlton   2018-10-23               12
-2       League1      1819  Scunthorpe   2018-11-03                9
+1       League1      1819  Scunthorpe   2018-11-03               10
+2       League1      1819    Coventry   2018-11-23                8
 3       League1      1819  Accrington   2018-11-03                8
-4       League1      1819    Coventry   2018-11-23                7
+4       League1      1819    Rochdale   2018-12-08                6
 SC0
   TheLeagueName TheSeason       TheTeam LastDrawDate NumOfMatchUndraw
 0      Scotland      1819      Aberdeen   2018-09-15               16
@@ -48,12 +48,12 @@ I1
 3         Italy      1819  Sampdoria   2018-12-08                4
 4         Italy      1819       Roma   2018-12-08                4
 SP1
-  TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatchUndraw
-0         Spain      1819     Espanol   2018-10-26                7
-1         Spain      1819    Sociedad   2018-11-04                6
-2         Spain      1819   Vallecano   2018-11-11                5
-3         Spain      1819   Barcelona   2018-11-24                4
-4         Spain      1819  Ath Madrid   2018-12-02                3
+  TheLeagueName TheSeason    TheTeam LastDrawDate NumOfMatchUndraw
+0         Spain      1819    Espanol   2018-10-26                8
+1         Spain      1819   Sociedad   2018-11-04                7
+2         Spain      1819  Vallecano   2018-11-11                6
+3         Spain      1819  Barcelona   2018-11-24                5
+4         Spain      1819     Alaves   2018-12-17                2
 F1
   TheLeagueName TheSeason   TheTeam LastDrawDate NumOfMatchUndraw
 0       France1      1819     Nimes   2018-10-26                7
@@ -83,12 +83,12 @@ B1
 3       Belgium      1819           Antwerp   2018-11-25                5
 4       Belgium      1819              Gent   2018-11-30                4
 P1
-  TheLeagueName TheSeason      TheTeam LastDrawDate NumOfMatchUndraw
-0      Portugal      1819        Porto            0               15
-1      Portugal      1819    Sp Lisbon   2018-08-25               12
-2      Portugal      1819  Santa Clara   2018-08-25               12
-3      Portugal      1819   Moreirense   2018-08-27               12
-4      Portugal      1819      Benfica   2018-09-27                9
+  TheLeagueName TheSeason     TheTeam LastDrawDate NumOfMatchUndraw
+0      Portugal      1819       Porto            0               15
+1      Portugal      1819   Sp Lisbon   2018-08-25               12
+2      Portugal      1819  Moreirense   2018-08-27               12
+3      Portugal      1819     Benfica   2018-09-27               10
+4      Portugal      1819     Tondela   2018-10-05                8
 ARG
   TheLeagueName TheSeason          TheTeam LastDrawDate NumOfMatchUndraw
 0           ARG      1819  San Martin S.J.   2018-08-25               11

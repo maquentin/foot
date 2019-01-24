@@ -80,21 +80,21 @@ DNK
 2           DNK      1819   Odense    2018-12-14   2018-10-26                6
 NOR
   TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0           MEX      1819     Haugesund    2018-11-24   2018-08-19               11
-1           MEX      1819  Kristiansund    2018-11-24   2018-09-02                9
-2           MEX      1819         Start    2018-11-24   2018-09-02                9
+0           NOR      1819     Haugesund    2018-11-24   2018-08-19               11
+1           NOR      1819  Kristiansund    2018-11-24   2018-09-02                9
+2           NOR      1819         Start    2018-11-24   2018-09-02                9
 SWE
   TheLeagueName TheSeason         TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0           NOR      1819  Brommapojkarna    2018-11-25   2018-09-30                8
-1           NOR      1819      Norrkoping    2018-11-11   2018-10-07                5
-2           NOR      1819        Goteborg    2018-11-11   2018-10-06                5
+0           SWE      1819  Brommapojkarna    2018-11-25   2018-09-30                8
+1           SWE      1819      Norrkoping    2018-11-11   2018-10-07                5
+2           SWE      1819        Goteborg    2018-11-11   2018-10-06                5
 NE2
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0           SWE      1819       Twente    2019-01-19   2018-10-06               13
-1           SWE      1819     Waalwijk    2019-01-13   2018-10-13               11
-2           SWE      1819  FC Volendam    2019-01-19   2018-11-18                7
+0      Holland2      1819       Twente    2019-01-19   2018-10-06               13
+1      Holland2      1819     Waalwijk    2019-01-13   2018-10-13               11
+2      Holland2      1819  FC Volendam    2019-01-19   2018-11-18                7
 RUS
   TheLeagueName TheSeason                   TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0      Holland2      1819          Zenit Petersburg    2018-12-09   2018-09-02               11
-1      Holland2      1819              Arsenal Tula    2018-12-10   2018-10-27                5
-2      Holland2      1819  FK Krylya Sovetov Samara    2018-12-08   2018-10-20                5
+0        Russia      1819          Zenit Petersburg    2018-12-09   2018-09-02               11
+1        Russia      1819              Arsenal Tula    2018-12-10   2018-10-27                5
+2        Russia      1819  FK Krylya Sovetov Samara    2018-12-08   2018-10-20                5

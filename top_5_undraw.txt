@@ -35,11 +35,11 @@ D1
 4      Germany1      1819  Fortuna Dusseldorf    2019-01-27   2018-11-24                7
 D2
   TheLeagueName TheSeason   TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0      Germany2      1819   FC Koln    2018-12-21   2018-10-27                7
+0      Germany2      1819   FC Koln    2019-01-31   2018-10-27                8
 1      Germany2      1819  Duisburg    2019-01-29   2018-11-09                6
 2      Germany2      1819   Hamburg    2019-01-30   2018-11-26                5
-3      Germany2      1819  St Pauli    2019-01-29   2018-12-01                4
-4      Germany2      1819   Dresden    2019-01-30   2018-12-01                4
+3      Germany2      1819    Bochum    2019-01-29   2018-12-02                4
+4      Germany2      1819  St Pauli    2019-01-29   2018-12-01                4
 I1
   TheLeagueName TheSeason    TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0         Italy      1819     Chievo    2019-01-27   2018-12-22                4
@@ -91,11 +91,11 @@ P1
 4      Portugal      1819    Maritimo    2019-01-28   2018-12-10                7
 ARG
   TheLeagueName TheSeason          TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0           ARG      1819  San Martin S.J.    2018-12-10   2018-08-25               11
-1           ARG      1819      River Plate    2019-01-24   2018-09-02                9
-2           ARG      1819   Argentinos Jrs    2018-12-09   2018-09-23                8
-3           ARG      1819     Atl. Tucuman    2018-12-01   2018-10-21                6
-4           ARG      1819            Tigre    2018-12-11   2018-10-26                5
+0           ARG      1819      River Plate    2019-01-31   2018-09-02               11
+1           ARG      1819   Argentinos Jrs    2019-01-28   2018-09-23                9
+2           ARG      1819     Atl. Tucuman    2019-01-26   2018-10-21                7
+3           ARG      1819  Rosario Central    2019-01-26   2018-11-04                5
+4           ARG      1819      Racing Club    2019-01-27   2018-11-26                3
 BRA
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0           BRA      1819   America MG    2018-12-02   2018-10-20                8

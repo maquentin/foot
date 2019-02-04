@@ -90,9 +90,9 @@ SWE
 2           SWE      1819        Goteborg    2018-11-11   2018-10-06                5
 NE2
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0      Holland2      1819       Twente    2019-01-19   2018-10-06               13
-1      Holland2      1819     Waalwijk    2019-01-13   2018-10-13               11
-2      Holland2      1819  FC Volendam    2019-01-19   2018-11-18                7
+0      Holland2      1819       Twente    2019-01-27   2018-10-06               14
+1      Holland2      1819     Waalwijk    2019-02-02   2018-10-13               13
+2      Holland2      1819  Almere City    2019-02-02   2018-12-01                7
 RUS
   TheLeagueName TheSeason                   TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0        Russia      1819          Zenit Petersburg    2018-12-09   2018-09-02               11

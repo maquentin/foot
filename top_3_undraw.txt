@@ -30,9 +30,9 @@ D2
 2      Germany2      1819   Hamburg    2019-02-02   2018-11-26                6
 I1
   TheLeagueName TheSeason    TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0         Italy      1819  Frosinone    2019-01-27   2018-12-26                3
-1         Italy      1819      Lazio    2019-01-27   2018-12-29                2
-2         Italy      1819  Sampdoria    2019-02-02   2019-01-20                2
+0         Italy      1819  Frosinone    2019-02-04   2018-12-26                4
+1         Italy      1819      Lazio    2019-02-04   2018-12-29                3
+2         Italy      1819      Inter    2019-02-03   2019-01-19                2
 SP1
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0         Spain      1819        Celta    2019-02-02   2018-12-14                6
@@ -46,7 +46,7 @@ F1
 F2
   TheLeagueName TheSeason  TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0       France2      1819  Lorient    2019-02-01   2018-12-14                5
-1       France2      1819     Lens    2019-01-28   2018-12-15                4
+1       France2      1819     Lens    2019-02-04   2018-12-15                5
 2       France2      1819  Sochaux    2019-02-01   2019-01-18                2
 N1
   TheLeagueName TheSeason     TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
@@ -60,14 +60,14 @@ B1
 2       Belgium      1819  Anderlecht    2019-02-03   2018-12-09                6
 P1
   TheLeagueName TheSeason     TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0      Portugal      1819  Moreirense    2019-01-28   2018-08-27               16
+0      Portugal      1819  Moreirense    2019-02-04   2018-08-27               17
 1      Portugal      1819     Benfica    2019-02-03   2018-09-27               14
 2      Portugal      1819    Boavista    2019-02-02   2018-12-09                8
 ARG
-  TheLeagueName TheSeason         TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0           ARG      1819     River Plate    2019-01-31   2018-09-02               11
-1           ARG      1819  Argentinos Jrs    2019-01-28   2018-09-23                9
-2           ARG      1819    Atl. Tucuman    2019-01-26   2018-10-21                7
+  TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
+0           ARG      1819   River Plate    2019-02-04   2018-09-02               12
+1           ARG      1819  Atl. Tucuman    2019-02-04   2018-10-21                8
+2           ARG      1819   Racing Club    2019-02-03   2018-11-26                4
 BRA
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0           BRA      1819   America MG    2018-12-02   2018-10-20                8

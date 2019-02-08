@@ -1,8 +1,8 @@
 E0
   TheLeagueName TheSeason    TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0           EPL      1819  Tottenham    2019-02-02            0               25
-1           EPL      1819   Man City    2019-02-03   2018-10-07               17
-2           EPL      1819    Everton    2019-02-02   2018-12-10                9
+1           EPL      1819   Man City    2019-02-06   2018-10-07               18
+2           EPL      1819    Everton    2019-02-06   2018-12-10               10
 E1
   TheLeagueName TheSeason    TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0  Championship      1819      Leeds    2019-02-02   2018-10-27               15
@@ -15,9 +15,9 @@ E2
 2       League1      1819   Walsall    2019-02-02   2018-12-29                5
 SC0
   TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0      Scotland      1819        Celtic    2019-02-03   2018-12-05               10
-1      Scotland      1819    Motherwell    2019-02-02   2018-12-05                9
-2      Scotland      1819  St Johnstone    2019-02-03   2018-12-05                9
+0      Scotland      1819        Celtic    2019-02-06   2018-12-05               11
+1      Scotland      1819    Motherwell    2019-02-06   2018-12-05               10
+2      Scotland      1819  St Johnstone    2019-02-06   2018-12-05               10
 D1
   TheLeagueName TheSeason        TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0      Germany1      1819     RB Leipzig    2019-02-01   2018-10-28               11
@@ -30,8 +30,8 @@ D2
 2      Germany2      1819   Hamburg    2019-02-02   2018-11-26                6
 I1
   TheLeagueName TheSeason    TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0         Italy      1819  Frosinone    2019-02-04   2018-12-26                4
-1         Italy      1819      Lazio    2019-02-04   2018-12-29                3
+0         Italy      1819      Lazio    2019-02-07   2018-12-29                4
+1         Italy      1819  Frosinone    2019-02-04   2018-12-26                4
 2         Italy      1819      Inter    2019-02-03   2019-01-19                2
 SP1
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw

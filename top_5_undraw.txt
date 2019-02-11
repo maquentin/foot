@@ -1,24 +1,24 @@
 E0
   TheLeagueName TheSeason    TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0           EPL      1819  Tottenham    2019-02-02            0               25
-1           EPL      1819   Man City    2019-02-06   2018-10-07               18
-2           EPL      1819    Everton    2019-02-06   2018-12-10               10
-3           EPL      1819    Arsenal    2019-02-03   2018-12-26                6
-4           EPL      1819     Fulham    2019-02-02   2018-12-26                6
+0           EPL      1819  Tottenham    2019-02-10            0               26
+1           EPL      1819   Man City    2019-02-10   2018-10-07               19
+2           EPL      1819    Everton    2019-02-09   2018-12-10               11
+3           EPL      1819    Arsenal    2019-02-09   2018-12-26                7
+4           EPL      1819     Fulham    2019-02-09   2018-12-26                7
 E1
   TheLeagueName TheSeason        TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0  Championship      1819          Leeds    2019-02-02   2018-10-27               15
-1  Championship      1819      Blackburn    2019-02-02   2018-12-15                8
-2  Championship      1819        Ipswich    2019-02-02   2018-12-22                7
-3  Championship      1819  Nott'm Forest    2019-02-02   2018-12-26                6
-4  Championship      1819          Wigan    2019-02-02   2018-12-29                5
+0  Championship      1819      Blackburn    2019-02-09   2018-12-15                9
+1  Championship      1819        Ipswich    2019-02-10   2018-12-22                8
+2  Championship      1819  Nott'm Forest    2019-02-09   2018-12-26                7
+3  Championship      1819          Stoke    2019-02-09   2018-12-29                6
+4  Championship      1819   Bristol City    2019-02-09   2018-12-26                6
 E2
   TheLeagueName TheSeason         TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0       League1      1819        Southend    2019-02-02   2018-10-06               18
-1       League1      1819        Plymouth    2019-02-02   2018-12-29                6
-2       League1      1819         Walsall    2019-02-02   2018-12-29                5
-3       League1      1819           Luton    2019-02-02   2019-01-12                4
-4       League1      1819  Fleetwood Town    2019-02-02   2019-01-19                3
+0       League1      1819         Walsall    2019-02-09   2018-12-29                6
+1       League1      1819           Luton    2019-02-09   2019-01-12                5
+2       League1      1819  Fleetwood Town    2019-02-09   2019-01-19                4
+3       League1      1819   AFC Wimbledon    2019-02-09   2019-01-12                4
+4       League1      1819      Scunthorpe    2019-02-09   2019-01-19                3
 SC0
   TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0      Scotland      1819        Celtic    2019-02-06   2018-12-05               11
@@ -28,67 +28,67 @@ SC0
 4      Scotland      1819     Hibernian    2019-02-06   2018-12-26                5
 D1
   TheLeagueName TheSeason        TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0      Germany1      1819     RB Leipzig    2019-02-01   2018-10-28               11
-1      Germany1      1819  Bayern Munich    2019-02-02   2018-11-24                8
-2      Germany1      1819     Leverkusen    2019-02-02   2018-12-03                7
-3      Germany1      1819      Wolfsburg    2019-02-02   2018-12-08                6
-4      Germany1      1819     M'gladbach    2019-02-02   2018-12-15                5
+0      Germany1      1819  Bayern Munich    2019-02-09   2018-11-24                9
+1      Germany1      1819     Leverkusen    2019-02-08   2018-12-03                8
+2      Germany1      1819     M'gladbach    2019-02-09   2018-12-15                6
+3      Germany1      1819       Hannover    2019-02-09   2018-12-19                5
+4      Germany1      1819       Augsburg    2019-02-10   2018-12-18                5
 D2
-  TheLeagueName TheSeason   TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0      Germany2      1819   FC Koln    2019-01-31   2018-10-27                8
-1      Germany2      1819  Duisburg    2019-02-01   2018-11-09                7
-2      Germany2      1819   Hamburg    2019-02-02   2018-11-26                6
-3      Germany2      1819    Bochum    2019-02-03   2018-12-02                5
-4      Germany2      1819  St Pauli    2019-02-04   2018-12-01                5
+  TheLeagueName TheSeason    TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
+0      Germany2      1819    FC Koln    2019-02-08   2018-10-27                9
+1      Germany2      1819   Duisburg    2019-02-09   2018-11-09                8
+2      Germany2      1819    Hamburg    2019-02-02   2018-11-26                6
+3      Germany2      1819   St Pauli    2019-02-08   2018-12-01                6
+4      Germany2      1819  Paderborn    2019-02-09   2018-11-30                6
 I1
   TheLeagueName TheSeason    TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0         Italy      1819      Lazio    2019-02-07   2018-12-29                4
-1         Italy      1819  Frosinone    2019-02-04   2018-12-26                4
-2         Italy      1819      Inter    2019-02-03   2019-01-19                2
-3         Italy      1819   Cagliari    2019-02-04   2019-01-20                2
-4         Italy      1819  Sampdoria    2019-02-02   2019-01-20                2
+0         Italy      1819  Frosinone    2019-02-10   2018-12-26                5
+1         Italy      1819      Lazio    2019-02-07   2018-12-29                4
+2         Italy      1819   Cagliari    2019-02-10   2019-01-20                3
+3         Italy      1819  Sampdoria    2019-02-10   2019-01-20                3
+4         Italy      1819      Inter    2019-02-09   2019-01-19                3
 SP1
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0         Spain      1819        Celta    2019-02-02   2018-12-14                6
-1         Spain      1819  Real Madrid    2019-02-03   2019-01-03                5
-2         Spain      1819        Betis    2019-02-03   2018-12-22                5
-3         Spain      1819   Ath Madrid    2019-02-03   2019-01-06                4
-4         Spain      1819      Sevilla    2019-02-02   2019-01-06                4
+0         Spain      1819        Celta    2019-02-09   2018-12-14                7
+1         Spain      1819        Betis    2019-02-10   2018-12-22                6
+2         Spain      1819  Real Madrid    2019-02-09   2019-01-03                6
+3         Spain      1819   Ath Madrid    2019-02-09   2019-01-06                5
+4         Spain      1819       Girona    2019-02-09   2019-01-12                4
 F1
-  TheLeagueName TheSeason    TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0       France1      1819   Guingamp    2019-01-26   2018-12-01                7
-1       France1      1819      Lille    2019-02-01   2018-12-09                6
-2       France1      1819   Paris SG    2019-02-03   2018-12-05                5
-3       France1      1819   Bordeaux    2019-02-05   2018-12-23                5
-4       France1      1819  Marseille    2019-02-05   2019-01-13                5
+  TheLeagueName TheSeason     TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
+0       France1      1819    Guingamp    2019-02-10   2018-12-01                8
+1       France1      1819       Lille    2019-02-10   2018-12-09                7
+2       France1      1819    Bordeaux    2019-02-09   2018-12-23                6
+3       France1      1819   Marseille    2019-02-08   2019-01-13                6
+4       France1      1819  Strasbourg    2019-02-09   2018-12-09                6
 F2
-  TheLeagueName TheSeason   TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0       France2      1819   Lorient    2019-02-01   2018-12-14                5
-1       France2      1819      Lens    2019-02-04   2018-12-15                5
-2       France2      1819   Sochaux    2019-02-01   2019-01-18                2
-3       France2      1819   Beziers    2019-02-04   2019-01-18                2
-4       France2      1819  Clermont    2019-02-01   2019-01-28                1
+  TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
+0       France2      1819       Lorient    2019-02-08   2018-12-14                6
+1       France2      1819      Clermont    2019-02-08   2019-01-28                2
+2       France2      1819       Ajaccio    2019-02-08   2019-01-25                2
+3       France2      1819  Valenciennes    2019-02-08   2019-02-04                1
+4       France2      1819         Niort    2019-02-08   2019-02-01                1
 N1
   TheLeagueName TheSeason     TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0      Holland1      1819   Willem II    2019-02-02   2018-10-21               11
-1      Holland1      1819    Heracles    2019-02-03   2018-10-27               10
-2      Holland1      1819  AZ Alkmaar    2019-02-02   2018-11-25                7
-3      Holland1      1819   Excelsior    2019-02-03   2018-11-30                6
-4      Holland1      1819     Utrecht    2019-02-03   2018-11-30                6
+0      Holland1      1819   Willem II    2019-02-09   2018-10-21               12
+1      Holland1      1819    Heracles    2019-02-09   2018-10-27               11
+2      Holland1      1819  AZ Alkmaar    2019-02-08   2018-11-25                8
+3      Holland1      1819   Excelsior    2019-02-10   2018-11-30                7
+4      Holland1      1819   VVV Venlo    2019-02-09   2018-12-09                6
 B1
-  TheLeagueName TheSeason     TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0       Belgium      1819       Eupen    2019-02-03   2018-09-15               17
-1       Belgium      1819     Lokeren    2019-02-02   2018-11-30                7
-2       Belgium      1819  Anderlecht    2019-02-03   2018-12-09                6
-3       Belgium      1819        Genk    2019-02-02   2018-12-08                6
-4       Belgium      1819    Mouscron    2019-02-01   2018-12-08                6
+  TheLeagueName TheSeason   TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
+0       Belgium      1819     Eupen    2019-02-09   2018-09-15               18
+1       Belgium      1819   Lokeren    2019-02-09   2018-11-30                8
+2       Belgium      1819      Genk    2019-02-08   2018-12-08                7
+3       Belgium      1819  Mouscron    2019-02-10   2018-12-08                7
+4       Belgium      1819  Kortrijk    2019-02-09   2018-12-22                5
 P1
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0      Portugal      1819   Moreirense    2019-02-04   2018-08-27               17
-1      Portugal      1819      Benfica    2019-02-03   2018-09-27               14
-2      Portugal      1819     Boavista    2019-02-02   2018-12-09                8
-3      Portugal      1819     Maritimo    2019-02-02   2018-12-10                8
-4      Portugal      1819  Santa Clara    2019-02-03   2019-01-06                4
+0      Portugal      1819      Benfica    2019-02-10   2018-09-27               15
+1      Portugal      1819     Boavista    2019-02-10   2018-12-09                9
+2      Portugal      1819     Maritimo    2019-02-09   2018-12-10                9
+3      Portugal      1819       Chaves    2019-02-10   2019-01-06                5
+4      Portugal      1819  Santa Clara    2019-02-10   2019-01-06                5
 ARG
   TheLeagueName TheSeason             TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0           ARG      1819         River Plate    2019-02-04   2018-09-02               12

@@ -6,18 +6,18 @@ E0
 3           EPL      1819    Arsenal    2019-02-09   2018-12-26                7
 4           EPL      1819     Fulham    2019-02-09   2018-12-26                7
 E1
-  TheLeagueName TheSeason        TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0  Championship      1819      Blackburn    2019-02-09   2018-12-15                9
-1  Championship      1819        Ipswich    2019-02-10   2018-12-22                8
-2  Championship      1819  Nott'm Forest    2019-02-09   2018-12-26                7
-3  Championship      1819          Stoke    2019-02-09   2018-12-29                6
-4  Championship      1819   Bristol City    2019-02-09   2018-12-26                6
+  TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
+0  Championship      1819     Blackburn    2019-02-13   2018-12-15               10
+1  Championship      1819  Bristol City    2019-02-12   2018-12-26                7
+2  Championship      1819     Brentford    2019-02-13   2019-01-01                5
+3  Championship      1819           QPR    2019-02-12   2019-01-01                5
+4  Championship      1819       Norwich    2019-02-13   2019-01-26                3
 E2
   TheLeagueName TheSeason         TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0       League1      1819         Walsall    2019-02-09   2018-12-29                6
-1       League1      1819           Luton    2019-02-09   2019-01-12                5
-2       League1      1819  Fleetwood Town    2019-02-09   2019-01-19                4
-3       League1      1819   AFC Wimbledon    2019-02-09   2019-01-12                4
+0       League1      1819         Walsall    2019-02-12   2018-12-29                7
+1       League1      1819   AFC Wimbledon    2019-02-12   2019-01-12                5
+2       League1      1819           Luton    2019-02-09   2019-01-12                5
+3       League1      1819  Fleetwood Town    2019-02-09   2019-01-19                4
 4       League1      1819      Scunthorpe    2019-02-09   2019-01-19                3
 SC0
   TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
@@ -58,9 +58,9 @@ F1
   TheLeagueName TheSeason     TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0       France1      1819    Guingamp    2019-02-10   2018-12-01                8
 1       France1      1819       Lille    2019-02-10   2018-12-09                7
-2       France1      1819    Bordeaux    2019-02-09   2018-12-23                6
-3       France1      1819   Marseille    2019-02-08   2019-01-13                6
-4       France1      1819  Strasbourg    2019-02-09   2018-12-09                6
+2       France1      1819  Strasbourg    2019-02-13   2018-12-09                7
+3       France1      1819    Bordeaux    2019-02-09   2018-12-23                6
+4       France1      1819   Marseille    2019-02-08   2019-01-13                6
 F2
   TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0       France2      1819       Lorient    2019-02-08   2018-12-14                6

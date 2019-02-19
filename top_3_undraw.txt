@@ -60,14 +60,14 @@ B1
 2       Belgium      1819  Mouscron    2019-02-17   2018-12-08                8
 P1
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0      Portugal      1819      Benfica    2019-02-10   2018-09-27               15
+0      Portugal      1819      Benfica    2019-02-18   2018-09-27               16
 1      Portugal      1819     Maritimo    2019-02-17   2018-12-10               10
 2      Portugal      1819  Santa Clara    2019-02-15   2019-01-06                6
 ARG
   TheLeagueName TheSeason             TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0           ARG      1819         River Plate    2019-02-10   2018-09-02               13
-1           ARG      1819  Defensa y Justicia    2019-02-11   2018-12-04                5
-2           ARG      1819         Racing Club    2019-02-10   2018-11-26                5
+0           ARG      1819         Racing Club    2019-02-19   2018-11-26                6
+1           ARG      1819  Defensa y Justicia    2019-02-16   2018-12-04                6
+2           ARG      1819          Godoy Cruz    2019-02-19   2018-12-09                5
 BRA
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0           BRA      1819   America MG    2018-12-02   2018-10-20                8
@@ -75,9 +75,9 @@ BRA
 2           BRA      1819  Atletico-MG    2018-12-01   2018-11-11                5
 DNK
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0           DNK      1819       Aarhus    2019-02-08   2018-10-21                8
-1           DNK      1819       Odense    2019-02-10   2018-10-26                7
-2           DNK      1819  Midtjylland    2019-02-11   2018-11-04                6
+0           DNK      1819       Aarhus    2019-02-15   2018-10-21                9
+1           DNK      1819       Odense    2019-02-17   2018-10-26                8
+2           DNK      1819  Midtjylland    2019-02-18   2018-11-04                7
 NOR
   TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0           NOR      1819     Haugesund    2018-11-24   2018-08-19               11

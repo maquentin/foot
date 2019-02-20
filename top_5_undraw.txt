@@ -9,15 +9,15 @@ E1
   TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0  Championship      1819     Blackburn    2019-02-17   2018-12-15               11
 1  Championship      1819  Bristol City    2019-02-12   2018-12-26                7
-2  Championship      1819     Brentford    2019-02-13   2019-01-01                5
-3  Championship      1819           QPR    2019-02-12   2019-01-01                5
+2  Championship      1819           QPR    2019-02-19   2019-01-01                6
+3  Championship      1819     Brentford    2019-02-13   2019-01-01                5
 4  Championship      1819       Norwich    2019-02-16   2019-01-26                4
 E2
   TheLeagueName TheSeason         TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0       League1      1819         Walsall    2019-02-16   2018-12-29                8
-1       League1      1819           Luton    2019-02-16   2019-01-12                6
-2       League1      1819  Fleetwood Town    2019-02-16   2019-01-19                5
-3       League1      1819   AFC Wimbledon    2019-02-12   2019-01-12                5
+1       League1      1819   AFC Wimbledon    2019-02-19   2019-01-12                6
+2       League1      1819           Luton    2019-02-16   2019-01-12                6
+3       League1      1819  Fleetwood Town    2019-02-16   2019-01-19                5
 4       League1      1819      Scunthorpe    2019-02-16   2019-01-19                4
 SC0
   TheLeagueName TheSeason     TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw

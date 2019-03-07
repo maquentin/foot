@@ -110,6 +110,20 @@ DNK
 2           DNK      1819      Esbjerg    2019-03-02   2018-11-25                7
 3           DNK      1819        Vejle    2019-03-03   2018-11-23                7
 4           DNK      1819  Sonderjyske    2019-03-03   2018-12-08                5
+JPN
+  TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
+0           JPN      1819  Yokohama M.    2018-12-01   2018-05-12               20
+1           JPN      1819      G-Osaka    2018-12-01   2018-08-15               12
+2           JPN      1819      Kashiwa    2018-12-01   2018-09-22                7
+3           JPN      1819      C-Osaka    2018-12-01   2018-09-22                7
+4           JPN      1819        Urawa    2018-12-01   2018-10-07                5
+MEX
+  TheLeagueName TheSeason           TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
+0           MEX      1819         Queretaro    2019-03-05   2018-12-02                9
+1           MEX      1819  U.A.N.L.- Tigres    2019-03-03   2019-01-06                8
+2           MEX      1819         Club Leon    2019-03-03   2019-01-12                7
+3           MEX      1819             Atlas    2019-03-02   2019-01-20                6
+4           MEX      1819   U.N.A.M.- Pumas    2019-03-03   2019-02-03                4
 NOR
   TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0           NOR      1819     Haugesund    2018-11-24   2018-08-19               11

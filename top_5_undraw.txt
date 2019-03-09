@@ -123,7 +123,7 @@ MEX
 1           MEX      1819  U.A.N.L.- Tigres    2019-03-03   2019-01-06                8
 2           MEX      1819         Club Leon    2019-03-03   2019-01-12                7
 3           MEX      1819             Atlas    2019-03-02   2019-01-20                6
-4           MEX      1819   U.N.A.M.- Pumas    2019-03-03   2019-02-03                4
+4           MEX      1819        Lobos BUAP    2019-03-03   2019-02-03                4
 NOR
   TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0           NOR      1819     Haugesund    2018-11-24   2018-08-19               11
@@ -138,6 +138,13 @@ SWE
 2           SWE      1819        Goteborg    2018-11-11   2018-10-06                5
 3           SWE      1819          Hacken    2018-11-11   2018-10-07                5
 4           SWE      1819     Trelleborgs    2018-11-11   2018-10-26                3
+USA
+  TheLeagueName TheSeason             TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
+0           USA      1819    Seattle Sounders    2018-11-09   2018-07-15               18
+1           USA      1819      Atlanta United    2018-12-09   2018-08-04               15
+2           USA      1819          Toronto FC    2018-10-28   2018-08-19               10
+3           USA      1819  New York Red Bulls    2018-11-30   2018-09-16                9
+4           USA      1819       New York City    2018-11-11   2018-09-23                7
 NE2
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0      Holland2      1819       Twente    2019-01-19   2018-10-06               13

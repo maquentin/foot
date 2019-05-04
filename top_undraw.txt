@@ -16,18 +16,18 @@ E1
 3  Championship      1819     Nott'm Forest    2019-04-27   2019-03-16                7
 4  Championship      1819               QPR    2019-04-27   2019-04-10                4
 5  Championship      1819           Ipswich    2019-04-27   2019-04-13                3
-6  Championship      1819  Sheffield United    2019-04-27   2019-04-13                3
-7  Championship      1819         Rotherham    2019-04-27   2019-04-13                3
+6  Championship      1819      Bristol City    2019-04-30   2019-04-19                3
+7  Championship      1819  Sheffield United    2019-04-27   2019-04-13                3
 E2
   TheLeagueName TheSeason     TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0       League1      1819     Wycombe    2019-04-27   2019-03-09                9
 1       League1      1819    Charlton    2019-04-27   2019-03-16                7
 2       League1      1819    Rochdale    2019-04-27   2019-03-30                6
-3       League1      1819  Accrington    2019-04-27   2019-04-06                5
-4       League1      1819    Barnsley    2019-04-27   2019-03-30                5
+3       League1      1819    Barnsley    2019-04-27   2019-03-30                5
+4       League1      1819  Accrington    2019-04-27   2019-04-06                5
 5       League1      1819    Plymouth    2019-04-27   2019-03-30                5
 6       League1      1819      Burton    2019-04-27   2019-04-09                4
-7       League1      1819   Blackpool    2019-04-27   2019-04-19                2
+7       League1      1819   Peterboro    2019-04-30   2019-04-22                2
 SC0
   TheLeagueName TheSeason     TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0      Scotland      1819      Dundee    2019-04-27   2019-02-06               10
@@ -59,35 +59,35 @@ D2
 6      Germany2      1819     Regensburg    2019-04-27   2019-04-12                2
 7      Germany2      1819        FC Koln    2019-04-26   2019-04-15                2
 I1
-  TheLeagueName TheSeason    TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0         Italy      1819  Sampdoria    2019-04-28   2019-01-20               14
-1         Italy      1819  Frosinone    2019-04-28   2019-03-03                8
-2         Italy      1819      Lazio    2019-04-28   2019-04-07                4
-3         Italy      1819     Napoli    2019-04-28   2019-04-07                3
-4         Italy      1819    Bologna    2019-04-27   2019-04-14                2
-5         Italy      1819   Cagliari    2019-04-27   2019-04-14                2
-6         Italy      1819     Torino    2019-04-28   2019-04-14                2
-7         Italy      1819     Empoli    2019-04-27   2019-04-15                2
+  TheLeagueName TheSeason     TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
+0         Italy      1819   Sampdoria    2019-04-28   2019-01-20               14
+1         Italy      1819   Frosinone    2019-04-28   2019-03-03                8
+2         Italy      1819       Lazio    2019-04-28   2019-04-07                4
+3         Italy      1819      Napoli    2019-04-28   2019-04-07                3
+4         Italy      1819      Torino    2019-04-28   2019-04-14                2
+5         Italy      1819     Bologna    2019-04-27   2019-04-14                2
+6         Italy      1819    Atalanta    2019-04-29   2019-04-15                2
+7         Italy      1819  Fiorentina    2019-04-29   2019-04-14                2
 SP1
   TheLeagueName TheSeason     TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0         Spain      1819  Ath Madrid    2019-04-27   2019-01-06               17
 1         Spain      1819     Sevilla    2019-04-28   2019-02-10               12
 2         Spain      1819      Girona    2019-04-28   2019-02-25               10
 3         Spain      1819    Valencia    2019-04-28   2019-03-17                7
-4         Spain      1819       Betis    2019-04-24   2019-03-31                5
-5         Spain      1819   Barcelona    2019-04-27   2019-04-13                3
-6         Spain      1819       Eibar    2019-04-28   2019-04-14                3
-7         Spain      1819    Sociedad    2019-04-28   2019-04-14                3
+4         Spain      1819   Barcelona    2019-04-27   2019-04-13                3
+5         Spain      1819       Eibar    2019-04-28   2019-04-14                3
+6         Spain      1819    Sociedad    2019-04-28   2019-04-14                3
+7         Spain      1819   Vallecano    2019-04-28   2019-04-20                2
 F1
   TheLeagueName TheSeason      TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0       France1      1819         Caen    2019-04-28   2019-02-24                8
 1       France1      1819       Nantes    2019-04-28   2019-03-03                7
-2       France1      1819        Nimes    2019-04-28   2019-03-16                6
+2       France1      1819  Montpellier    2019-04-30   2019-03-10                6
 3       France1      1819         Lyon    2019-04-26   2019-03-09                6
-4       France1      1819  Montpellier    2019-04-20   2019-03-10                5
+4       France1      1819        Nimes    2019-04-28   2019-03-16                6
 5       France1      1819     Bordeaux    2019-04-26   2019-03-31                4
 6       France1      1819    Marseille    2019-04-28   2019-03-30                4
-7       France1      1819   St Etienne    2019-04-28   2019-04-06                3
+7       France1      1819     Paris SG    2019-04-30   2019-04-07                4
 F2
   TheLeagueName TheSeason   TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0       France2      1819    Troyes    2019-04-26   2019-03-15                6
@@ -101,7 +101,7 @@ F2
 N1
   TheLeagueName TheSeason        TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0      Holland1      1819           Ajax    2019-04-23   2019-01-20               14
-1      Holland1      1819         Zwolle    2019-04-20   2019-03-10                7
+1      Holland1      1819         Zwolle    2019-04-24   2019-03-10                8
 2      Holland1      1819       Heracles    2019-04-23   2019-03-10                7
 3      Holland1      1819      Feyenoord    2019-04-24   2019-03-10                7
 4      Holland1      1819       Den Haag    2019-04-25   2019-04-03                4
@@ -150,14 +150,14 @@ BRA
 7           BRA      1819  Chapecoense-SC    2018-12-02   2018-11-25                1
 DNK
   TheLeagueName TheSeason        TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0           DNK      1819  FC Copenhagen    2019-04-22   2019-03-10                6
-1           DNK      1819         Aarhus    2019-04-21   2019-04-01                4
-2           DNK      1819    Sonderjyske    2019-04-21   2019-03-31                4
-3           DNK      1819        Brondby    2019-04-22   2019-04-08                3
-4           DNK      1819          Hobro    2019-04-22   2019-04-07                3
-5           DNK      1819    Midtjylland    2019-04-22   2019-04-07                3
-6           DNK      1819     Randers FC    2019-04-22   2019-04-06                3
-7           DNK      1819        Aalborg    2019-04-22   2019-04-17                1
+0           DNK      1819  FC Copenhagen    2019-04-28   2019-03-10                7
+1           DNK      1819         Aarhus    2019-04-28   2019-04-01                5
+2           DNK      1819    Sonderjyske    2019-04-28   2019-03-31                5
+3           DNK      1819        Brondby    2019-04-28   2019-04-08                4
+4           DNK      1819    Midtjylland    2019-04-29   2019-04-07                4
+5           DNK      1819        Horsens    2019-04-28   2019-04-18                2
+6           DNK      1819  Nordsjaelland    2019-04-29   2019-04-19                2
+7           DNK      1819          Vejle    2019-04-28   2019-04-18                2
 JPN
   TheLeagueName TheSeason            TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0           JPN      1819        Yokohama M.    2018-12-01   2018-05-12               20
@@ -170,14 +170,14 @@ JPN
 7           JPN      1819              Iwata    2018-12-08   2018-11-10                3
 MEX
   TheLeagueName TheSeason             TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0           MEX      1819           Club Leon    2019-04-20   2019-01-12               13
-1           MEX      1819               Atlas    2019-04-20   2019-01-20               12
-2           MEX      1819        Club Tijuana    2019-04-20   2019-02-11                9
-3           MEX      1819  Guadalajara Chivas    2019-04-21   2019-03-10                5
-4           MEX      1819     U.N.A.M.- Pumas    2019-04-21   2019-03-10                5
-5           MEX      1819            Veracruz    2019-04-20   2019-03-09                5
-6           MEX      1819          Lobos BUAP    2019-04-20   2019-03-16                4
-7           MEX      1819           Monterrey    2019-04-20   2019-03-31                3
+0           MEX      1819           Club Leon    2019-04-28   2019-01-12               14
+1           MEX      1819               Atlas    2019-04-27   2019-01-20               13
+2           MEX      1819        Club Tijuana    2019-04-27   2019-02-11               10
+3           MEX      1819  Guadalajara Chivas    2019-04-28   2019-03-10                6
+4           MEX      1819            Veracruz    2019-04-29   2019-03-09                6
+5           MEX      1819          Lobos BUAP    2019-04-28   2019-03-16                5
+6           MEX      1819       Santos Laguna    2019-04-28   2019-04-08                3
+7           MEX      1819           Cruz Azul    2019-04-28   2019-04-15                2
 NOR
   TheLeagueName TheSeason       TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
 0           NOR      1819     Haugesund    2018-11-24   2018-08-19               11
@@ -220,11 +220,11 @@ NE2
 7      Holland2      1819    Jong Ajax    2019-04-16   2019-03-26                4
 RUS
   TheLeagueName TheSeason                   TheTeam LastMatchDate LastDrawDate NumOfMatchUndraw
-0        Russia      1819  FK Krylya Sovetov Samara    2019-04-25   2019-03-02                8
-1        Russia      1819                  Orenburg    2019-04-25   2019-03-11                7
-2        Russia      1819                 FK Rostov    2019-04-24   2019-03-10                6
-3        Russia      1819            Spartak Moscow    2019-04-25   2019-03-17                5
-4        Russia      1819        FK Anzi Makhackala    2019-04-24   2019-04-06                3
-5        Russia      1819          Zenit Petersburg    2019-04-24   2019-04-07                3
-6        Russia      1819              Arsenal Tula    2019-04-25   2019-04-13                2
-7        Russia      1819             Dynamo Moscow    2019-04-24   2019-04-14                2
+0        Russia      1819  FK Krylya Sovetov Samara    2019-04-28   2019-03-02                9
+1        Russia      1819          Zenit Petersburg    2019-04-28   2019-04-07                4
+2        Russia      1819                      Ural    2019-04-28   2019-04-13                3
+3        Russia      1819                   Yenisey    2019-04-28   2019-04-13                3
+4        Russia      1819               CSKA Moscow    2019-04-28   2019-04-20                2
+5        Russia      1819          Lokomotiv Moscow    2019-04-28   2019-04-20                2
+6        Russia      1819                 Krasnodar    2019-04-28   2019-04-24                1
+7        Russia      1819                       Ufa    2019-04-28   2019-04-24                1
